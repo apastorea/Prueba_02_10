@@ -10,6 +10,7 @@
 
 int main(void)
 {
+	printf("Esta es mi modificacion");		 //modificacion de agustin
 	return EXIT_SUCCESS;
 }
 
